@@ -6,7 +6,7 @@ h4 {
 }
 
 h1 {
-  background: #FFA400;
+  background: #9A031E;
   color: #fff;
   display: inline-block;
   font-weight: normal;
@@ -48,13 +48,13 @@ p {
 
 a {
   border-bottom: 1px solid rgba(0, 0, 0, 0.2);
-  color: #333;
+  color: #CDC5B4;
   text-decoration: none;
   transition: border-color 0.2s ease-in-out;
 }
 
 a:hover {
-  border-color: #FFA400;
+  border-color: #9A031E;
 }
 
 [role=banner] > h1 {
@@ -72,7 +72,7 @@ a:hover {
   padding: 15% 0;
 }
 .summary p:last-child {
-  border-top: 1px solid #FFA400;
+  border-top: 1px solid #9A031E;
   margin-top: 1em;
   padding-top: 1.5em;
 }
@@ -82,7 +82,7 @@ a:hover {
 
 .preamble {
   background: rgba(255, 255, 255, 0.9);
-  color: #333;
+  color: #CDC5B4;
   margin-left: -30%;
   padding: 5% 5% 5% 30%;
 }
@@ -96,15 +96,15 @@ a:hover {
 }
 
 html {
-  background-color: #daede2;
+  background-color: #898989;
   padding: 5%;
 }
 
 body {
   font-family: Lora, Helvetica, sans-serif;
   font-size: 85%;
-  color: #333;
-  background-color: #009FFD;
+  color: #CDC5B4;
+  background-color: #274060;
   margin: 0;
   padding: 1em;
 }
@@ -135,19 +135,19 @@ section {
 }
 
 .primary {
-  background-color: #009FFD;
+  background-color: #274060;
 }
 
 .accent1 {
-  background-color: #FFA400;
+  background-color: #9A031E;
 }
 
 .accent2 {
-  background-color: #2A2A72 246, 247, 146, 0.9;
+  background-color: #CDC5B4 246, 247, 146, 0.9;
 }
 
 .text-dark {
-  background-color: #333;
+  background-color: #CDC5B4;
 }
 
 .element {
@@ -160,7 +160,7 @@ section {
   font-weight: 300;
   letter-spacing: 2px;
   text-transform: uppercase;
-  color: #333;
+  color: #CDC5B4;
 }
 
 .uppercase-light {
